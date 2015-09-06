@@ -1,0 +1,9 @@
+{
+  "name": "Right Click List",
+  "description": "Online Bookmarks Made Easy",
+  "version": "1.0",
+  "icons": {"48": "icon48.png","128": "icon128.png", "16": "icon16.png" },
+  "permissions": ["contextMenus","tabs"],
+  "background": {"scripts": ["background.js"]},
+  "manifest_version": 2
+}
